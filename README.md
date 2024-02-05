@@ -1,1 +1,1 @@
-# potencia-tu-perfil-tech-con-Github
+# Potencia tu perfil Tech con Github
