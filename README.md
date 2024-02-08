@@ -37,7 +37,9 @@
 >
 > Referentes 👨‍💻
 > - [Decorar perfil de GitHub con Readme](https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es) 🌟
+> - [Awesome Badges](https://github.com/Envoy-VC/awesome-badges) 🌟
 > - [Tu perfil de Github like a pro!](https://medium.com/@dan.avila7/tu-perfil-de-github-like-a-pro-8436f90caf61) ⚡
+>   
 
 ### 2. Wikis
 > - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
