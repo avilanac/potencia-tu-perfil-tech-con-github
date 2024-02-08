@@ -4,7 +4,7 @@
 
 ¡Bienvenido a la exposición "Potencia tu Perfil Tech con GitHub"! 🚀 Aquí encontrarás recursos increíbles y artículos para destacar en el fascinante mundo tech utilizando GitHub.
 
-## 📑 Material de Apoyo
+## 📑 Introducción
 
 ### 1. Factores Diferenciadores
 > - [¿Qué es un portafolio?](https://econsultoria.net/blog/que-es-un-portafolio-para-que-sirve-beneficios-de-tenerlo/)
@@ -23,13 +23,28 @@
 >
 > - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
 
-## 📚 Artículos de Investigación
+## 🛠 Potenciadores
 
-### 1. [GitHub para Desarrolladores: Una Guía Completa](https://www.example.com/github-guide)
-   Descubre todos los secretos sobre cómo aprovechar al máximo GitHub para potenciar tu perfil técnico. 💡
+### 1. GitHub Profile
+> - [Update profile](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#adding-a-bio-to-your-profile)
 
-### 2. [Cómo Utilizar Emoticonos e Iconos en tus Repositorios GitHub](https://www.example.com/github-emojis)
-   ¡Haz que tu documentación sea visualmente atractiva! Descubre cómo incorporar emoticonos e iconos a tus proyectos en GitHub.
+### 2. README Profile
+> - [About profile](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
+>
+> - [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+>
+> - [About READMEs](https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+>
+>Referentes 👨‍💻
+> - [Decorar perfil de GitHub con Readme](https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es)
+> - 
+
+### 2. Wikis
+> - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
+>
+### 3. GitHub Pages
+> - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
+
 
 ## 📊 Estadísticas y Gráficos
 
