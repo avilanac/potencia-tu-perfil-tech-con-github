@@ -2,12 +2,14 @@
 
 # 🚀 Potencia tu Perfil Tech con GitHub 🌟
 
-¡Bienvenido a la exposición "Potencia tu Perfil Tech con GitHub"! 🌈 Aquí encontrarás recursos increíbles y artículos para destacar en el fascinante mundo tech utilizando GitHub.
+¡Bienvenido a la exposición "Potencia tu Perfil Tech con GitHub"! 🚀 Aquí encontrarás recursos increíbles y artículos para destacar en el fascinante mundo tech utilizando GitHub.
 
 ## 🚀 Material de Apoyo
 
-### 1. [Apollo Docs](https://www.apollographql.com/docs/)
-   ¡Sumérgete en la documentación oficial de Apollo GraphQL! Aprende a dominar GraphQL y lleva tus proyectos al siguiente nivel.
+### 1. Importancia
+> - [¿Qué es un portafolio?](https://econsultoria.net/blog/que-es-un-portafolio-para-que-sirve-beneficios-de-tenerlo/)
+
+> - [Tu trayectoria visualizada](https://www.linkedin.com/pulse/la-importancia-de-un-portafolio-profesional-tu-trayectoria-visualizada-usyzc/?trk=public_post&originalSubdomain=es)
 
 ### 2. [Apollo Client GitHub Repo](https://github.com/apollographql/apollo-client)
    Explora el código fuente de Apollo Client en GitHub. ¡Conviértete en parte de la comunidad y contribuye al futuro de GraphQL!
