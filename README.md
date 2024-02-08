@@ -44,18 +44,23 @@
 >
 > - [Escribir en GitHub](https://docs.github.com/es/get-started/writing-on-github)
 >
-> Referentes 👨‍💻
+> Recursos
 > - [Decorar perfil de GitHub con Readme](https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es) 🌟
-> - [Decorar perfil de GitHub con Readme](https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es) 🌟
+> - [Cómo escribir un README increíble en tu Github](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github) 🌟
 > - [Awesome Badges](https://github.com/Envoy-VC/awesome-badges) 🌟
 > - [Tu perfil de Github like a pro!](https://medium.com/@dan.avila7/tu-perfil-de-github-like-a-pro-8436f90caf61) ⚡
 > - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-readme-stats) ⚡
-> - 
+> 
+> Referentes 👨‍💻
+> - [solozano0725](https://github.com/solozano0725)
+> - [Davermx](https://github.com/Davermx)
+> - [carlossalvadordiaz](https://github.com/carlossalvadordiaz)
+> - [DavidsDvm](https://github.com/DavidsDvm/DavidsDvm)
 
-### 2. Wikis
+### 4. Wikis
 > - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
 >
-### 3. GitHub Pages
+### 5. GitHub Pages
 > - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
 
 
