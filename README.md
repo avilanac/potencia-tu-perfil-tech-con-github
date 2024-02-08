@@ -63,31 +63,31 @@
 > - [Documentar tu proyecto con wikis](https://docs.github.com/es/communities/documenting-your-project-with-wikis)
 > 
 > <details>
->     <summary>¿Cómo crear una wiki en GitHub?</summary>
+>     <summary><strong>¿Cómo crear una wiki en GitHub?</strong></summary>
 >
 >     Aquí está la respuesta a la pregunta sobre cómo crear una wiki en GitHub:
 >
->     1. Crea un Repositorio:
+>     1. **Crea un Repositorio**:
 >        - Inicia sesión en tu cuenta de GitHub.
 >        - Ve a la página principal de GitHub (https://github.com/).
 >        - Haz clic en el botón "New" para crear un nuevo repositorio.
->     2. Configura el Repositorio:
+>     2. **Configura el Repositorio**:
 >        - Asigna un nombre al repositorio.
 >        - Opcionalmente, puedes agregar una descripción y seleccionar la visibilidad del repositorio (público o privado).
 >        - No inicialices el repositorio con un archivo README, ya que la wiki generará su propia página de inicio.
->     3. Crea el Repositorio:
+>     3. **Crea el Repositorio**:
 >        - Haz clic en el botón "Create repository" para crear el nuevo repositorio.
->     4. Activa la Wiki:
+>     4. **Activa la Wiki**:
 >        - Una vez creado el repositorio, ve a la pestaña "Settings" (Configuración) en la parte superior.
 >        - Desplázate hacia abajo hasta la sección "Features" (Características).
 >        - Habilita la opción "Wikis" para activar la funcionalidad de la wiki.
->     5. Accede a la Wiki:
+>     5. **Accede a la Wiki**:
 >        - Ahora, en la pestaña principal del repositorio, deberías ver una pestaña llamada "Wiki". Haz clic en ella.
->     6. Edita la Página de Inicio:
+>     6. **Edita la Página de Inicio**:
 >        - Al acceder a la wiki, verás una página de inicio predeterminada. Puedes hacer clic en "Create the first page" para comenzar a editar o crear nuevas páginas.
->     7. Escribe Contenido:
+>     7. **Escribe Contenido**:
 >        - Utiliza el formato Markdown para escribir y dar formato a tu contenido en la wiki. GitHub utiliza el formato Markdown para las wikis, que es fácil de aprender.
->     8. Guarda Cambios:
+>     8. **Guarda Cambios**:
 >        Después de escribir el contenido, asegúrate de guardar los cambios. Puedes hacerlo directamente en la interfaz de edición de GitHub.
 > </details>
 
