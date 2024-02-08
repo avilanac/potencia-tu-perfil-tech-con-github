@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/avilanac/potencia-tu-perfil-tech-con-github/blob/main/img/banner_IbagirlsDev.jpeg)
 
 # 🚀 Potencia tu Perfil Tech con GitHub 🌟
 
