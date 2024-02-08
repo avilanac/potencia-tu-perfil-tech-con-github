@@ -2,6 +2,8 @@
 
 # 🚀 Potencia tu Perfil Tech con GitHub 🌟
 
+
+
 ¡Bienvenid@s al workshop "Potencia tu Perfil Tech con GitHub"! 🚀 Aquí encontrarás recursos increíbles y artículos para destacar en el fascinante mundo tech utilizando GitHub.
 
 ## 📑 Introducción
@@ -25,21 +27,30 @@
 
 ## 🛠 Potenciadores
 
-### 1. GitHub Profile
+### 1. Sing Up GitHub
+> - [Creación de una cuenta en GitHub](https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github)
+
+### 2. GitHub Profile
 > - [Update profile](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#adding-a-bio-to-your-profile)
 
-### 2. README Profile
+### 3. README Profile
 > - [About profile](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
 >
 > - [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 >
 > - [About READMEs](https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 >
+> - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+>
+> - [Escribir en GitHub](https://docs.github.com/es/get-started/writing-on-github)
+>
 > Referentes 👨‍💻
+> - [Decorar perfil de GitHub con Readme](https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es) 🌟
 > - [Decorar perfil de GitHub con Readme](https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es) 🌟
 > - [Awesome Badges](https://github.com/Envoy-VC/awesome-badges) 🌟
 > - [Tu perfil de Github like a pro!](https://medium.com/@dan.avila7/tu-perfil-de-github-like-a-pro-8436f90caf61) ⚡
->   
+> - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-readme-stats) ⚡
+> - 
 
 ### 2. Wikis
 > - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
