@@ -6,10 +6,12 @@
 
 ## 🚀 Material de Apoyo
 
-### 1. Importancia
+### 1. Factores Diferenciadores
 > - [¿Qué es un portafolio?](https://econsultoria.net/blog/que-es-un-portafolio-para-que-sirve-beneficios-de-tenerlo/)
 
 > - [Tu trayectoria visualizada](https://www.linkedin.com/pulse/la-importancia-de-un-portafolio-profesional-tu-trayectoria-visualizada-usyzc/?trk=public_post&originalSubdomain=es)
+
+> - [Optimizar un CV tech](https://talently.tech/blog/optimizar-un-cv-tech/)
 
 ### 2. [Apollo Client GitHub Repo](https://github.com/apollographql/apollo-client)
    Explora el código fuente de Apollo Client en GitHub. ¡Conviértete en parte de la comunidad y contribuye al futuro de GraphQL!
