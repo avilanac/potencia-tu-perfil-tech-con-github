@@ -2,7 +2,7 @@
 
 # 🚀 Potencia tu Perfil Tech con GitHub 🌟
 
-¡Bienvenido a la exposición "Potencia tu Perfil Tech con GitHub"! 🚀 Aquí encontrarás recursos increíbles y artículos para destacar en el fascinante mundo tech utilizando GitHub.
+¡Bienvenid@s al workshop "Potencia tu Perfil Tech con GitHub"! 🚀 Aquí encontrarás recursos increíbles y artículos para destacar en el fascinante mundo tech utilizando GitHub.
 
 ## 📑 Introducción
 
@@ -35,9 +35,9 @@
 >
 > - [About READMEs](https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 >
->Referentes 👨‍💻
-> - [Decorar perfil de GitHub con Readme](https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es)
-> - 
+> Referentes 👨‍💻
+> - [Decorar perfil de GitHub con Readme](https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es) 🌟
+> - [Tu perfil de Github like a pro!](https://medium.com/@dan.avila7/tu-perfil-de-github-like-a-pro-8436f90caf61) ⚡
 
 ### 2. Wikis
 > - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
