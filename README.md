@@ -2,7 +2,8 @@
 
 # 🚀 Potencia tu Perfil Tech con GitHub 🌟
 
-¡Bienvenid@s al workshop "Potencia tu Perfil Tech con GitHub"! 🚀 Aquí encontrarás recursos increíbles y artículos para destacar en el fascinante mundo tech utilizando GitHub.
+¡Bienvenid@s al workshop "Potencia tu Perfil Tech con GitHub"! 🚀 Aquí encontrarás recursos increíbles y artículos para destacar en el fascinante mundo tech utilizando GitHub.  
+[![Slides](https://img.shields.io/badge/Slides-%E2%9C%8A-purple?style=flat-square)](https://www.canva.com/design/DAF8CGRxyoE/Y2IZhxddyJ9zd7hK4WM1tw/view?utm_content=DAF8CGRxyoE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## 📑 Introducción
