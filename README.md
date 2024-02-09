@@ -1,7 +1,5 @@
 ![Banner](https://github.com/avilanac/potencia-tu-perfil-tech-con-github/blob/main/img/banner_IbagirlsDev.jpeg)
 
-
-
 # 🚀 Potencia tu Perfil Tech con GitHub 🌟
 
 ¡Bienvenid@s al workshop "Potencia tu Perfil Tech con GitHub"! 🚀 Aquí encontrarás recursos increíbles y artículos para destacar en el fascinante mundo tech utilizando GitHub.
@@ -49,6 +47,7 @@
 > - [Decorar perfil de GitHub con Readme](https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es) 🌟
 > - [Cómo escribir un README increíble en tu Github](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github) 🌟
 > - [Awesome Badges](https://github.com/Envoy-VC/awesome-badges) 🌟
+> - [Awesome Alerts](https://github.com/orgs/community/discussions/16925) 🌟
 > - [Tu perfil de Github like a pro!](https://medium.com/@dan.avila7/tu-perfil-de-github-like-a-pro-8436f90caf61) ⚡
 > - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-readme-stats) ⚡
 > - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) ⚡
@@ -67,35 +66,40 @@
 >
 >     Aquí está la respuesta a la pregunta sobre cómo crear una wiki en GitHub:
 >
->     1. <strong>Crea un Repositorio</strong>strong>:
+>     1. Crea un Repositorio:
 >        - Inicia sesión en tu cuenta de GitHub.
 >        - Ve a la página principal de GitHub (https://github.com/).
 >        - Haz clic en el botón "New" para crear un nuevo repositorio.
->     2. <strong>Configura el Repositorio</strong>:
+>     2. Configura el Repositorio:
 >        - Asigna un nombre al repositorio.
 >        - Opcionalmente, puedes agregar una descripción y seleccionar la visibilidad del repositorio (público o privado).
 >        - No inicialices el repositorio con un archivo README, ya que la wiki generará su propia página de inicio.
->     3. <strong>Crea el Repositorio</strong>:
+>     3. Crea el Repositorio:
 >        - Haz clic en el botón "Create repository" para crear el nuevo repositorio.
->     4. <strong>Activa la Wiki</strong>:
+>     4. Activa la Wiki:
 >        - Una vez creado el repositorio, ve a la pestaña "Settings" (Configuración) en la parte superior.
 >        - Desplázate hacia abajo hasta la sección "Features" (Características).
 >        - Habilita la opción "Wikis" para activar la funcionalidad de la wiki.
->     5. <strong>Accede a la Wiki</strong>:
+>     5. Accede a la Wiki:
 >        - Ahora, en la pestaña principal del repositorio, deberías ver una pestaña llamada "Wiki". Haz clic en ella.
->     6. <strong>Edita la Página de Inicio</strong>:
+>     6. Edita la Página de Inicio:
 >        - Al acceder a la wiki, verás una página de inicio predeterminada. Puedes hacer clic en "Create the first page" para comenzar a editar o crear nuevas páginas.
->     7. <strong>Escribe Contenido</strong>:
+>     7. Escribe Contenido:
 >        - Utiliza el formato Markdown para escribir y dar formato a tu contenido en la wiki. GitHub utiliza el formato Markdown para las wikis, que es fácil de aprender.
->     8. <strong>Guarda Cambios</strong>:
+>     8. Guarda Cambios:
 >        Después de escribir el contenido, asegúrate de guardar los cambios. Puedes hacerlo directamente en la interfaz de edición de GitHub.
 > </details>
 
-
-
 ### 5. GitHub Pages
-> - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
+> [!IMPORTANT]  
+> GitHub Pages solo aloja páginas web elaboradas en HTML, CSS y Javascript.
 
+> - [Cómo publicar un sitio web gratis con Github pages](https://www.youtube.com/watch?v=sLTNgxxSBR4&t=196s)
+> - [Presentación](https://pages.github.com/)
+> - [Documentación Oficial](https://docs.github.com/es/pages)
+> - [Casos de uso de GitHub Pages](https://github.com/cristinafsanz/github-pages)
+>
+> Archivo Profile_Page
 
 ## 📊 Estadísticas y Gráficos
 
