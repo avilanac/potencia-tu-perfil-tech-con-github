@@ -24,6 +24,7 @@
 > - [Git flow en 13 pasos](https://www.pragma.com.co/academia/lecciones/aprende-gif-flow-en-13-pasos)
 >
 > - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
+> - [Instalar Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
 
 ## 🛠 Potenciadores
 
