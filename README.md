@@ -44,7 +44,6 @@
 > - [Escribir en GitHub](https://docs.github.com/es/get-started/writing-on-github)
 >
 > Recursos
-> - [Decorar perfil de GitHub con Readme](https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es) 🌟
 > - [Cómo escribir un README increíble en tu Github](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github) 🌟
 > - [Awesome Badges](https://github.com/Envoy-VC/awesome-badges) 🌟
 > - [Awesome Alerts](https://github.com/orgs/community/discussions/16925) 🌟
@@ -100,19 +99,25 @@
 > - [Casos de uso de GitHub Pages](https://github.com/cristinafsanz/github-pages)
 >
 > Archivo Profile_Page
+>📁 [Enlace repositorio]()
+> 
+> Referentes 👨‍💻
+> - [carol-solivos](https://github.com/carol-solivos/carol-solivos.github.io?tab=readme-ov-file)
+> - [jfbaquerocelis](https://github.com/jfbaquerocelis/jfbaquerocelis.github.io?tab=readme-ov-file)
 
-## 📊 Estadísticas y Gráficos
+---
+## ¡Gracias por Participar! 
+Fue una emocionante jornada de aprendizaje y colaboración! 🎉
+Si tienes alguna recomendación, comentario o encontraste algún problema, te invitamos a que lo compartas en nuestra sección de [Issues](https://github.com/avilanac/potencia-tu-perfil-tech-con-github/issues). Tu retroalimentación es invaluable y nos ayuda a mejorar.
 
-### Repositorio más Popular:
-![Most Starred Repository](https://img.shields.io/github/stars/usuario/repo?style=social)
+¡Hasta la próxima! 👋
 
-### Contribuciones Recientes:
-![Contributors](https://img.shields.io/github/contributors/usuario/repo)
 
 ## 🚀 Próximos Pasos
+- Conoce la primera comunidad de mujeres programadoras de Ibagué. Visita nuestra página web [![IbagirlsDev](https://img.shields.io/badge/IbagirlsDev-%E2%9C%8A-purple?style=flat-square)](https://ibagirlsdev.com/)
 
-- Únete a la conversación en [nuestro canal de Discord](https://discord.gg/techcommunity).
-- Comparte tus experiencias en Twitter con el hashtag #GitHubTechPower.
+- Síguenos en nuestras redes: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ibagirls-dev-b69892214/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ibagirlsdev?igsh=ZWF1eTR6OW9ibXgw ) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ibagirls.devs)
+  
 - ¡Inspírate y potencia tu perfil tech! 🚀
 
-¡Gracias por ser parte de esta emocionante jornada de aprendizaje y colaboración! 🎉
+
