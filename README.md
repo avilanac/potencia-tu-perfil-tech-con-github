@@ -44,6 +44,7 @@
 > - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 >
 > - [Escribir en GitHub](https://docs.github.com/es/get-started/writing-on-github)
+> - [Como subir un proyecto local a github](https://gist.github.com/cgonzalezdai/cc33db72a6fe5178637aabb562eae35c?permalink_comment_id=4395213)
 >
 > Recursos
 > - [Cómo escribir un README increíble en tu Github](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github) 🌟
@@ -59,7 +60,23 @@
 > - [carlossalvadordiaz](https://github.com/carlossalvadordiaz)
 > - [DavidsDvm](https://github.com/DavidsDvm/DavidsDvm)
 
-### 4. Wikis
+### 4. GitHub Pages
+> [!IMPORTANT]  
+> GitHub Pages solo aloja páginas web elaboradas en HTML, CSS y Javascript.
+
+> - [Cómo publicar un sitio web gratis con Github pages](https://www.youtube.com/watch?v=sLTNgxxSBR4&t=196s)
+> - [Presentación](https://pages.github.com/)
+> - [Documentación Oficial](https://docs.github.com/es/pages)
+> - [Casos de uso de GitHub Pages](https://github.com/cristinafsanz/github-pages)
+>
+> Archivo Profile_Page
+>📁 [Enlace repositorio]()
+> 
+> Referentes 👨‍💻
+> - [carol-solivos](https://github.com/carol-solivos/carol-solivos.github.io?tab=readme-ov-file)
+> - [jfbaquerocelis](https://github.com/jfbaquerocelis/jfbaquerocelis.github.io?tab=readme-ov-file)
+
+### 5. Wikis
 > - [Documentar tu proyecto con wikis](https://docs.github.com/es/communities/documenting-your-project-with-wikis)
 > 
 > <details>
@@ -90,23 +107,6 @@
 >     8. Guarda Cambios:
 >        Después de escribir el contenido, asegúrate de guardar los cambios. Puedes hacerlo directamente en la interfaz de edición de GitHub.
 > </details>
-
-### 5. GitHub Pages
-> [!IMPORTANT]  
-> GitHub Pages solo aloja páginas web elaboradas en HTML, CSS y Javascript.
-
-> - [Cómo publicar un sitio web gratis con Github pages](https://www.youtube.com/watch?v=sLTNgxxSBR4&t=196s)
-> - [Presentación](https://pages.github.com/)
-> - [Documentación Oficial](https://docs.github.com/es/pages)
-> - [Casos de uso de GitHub Pages](https://github.com/cristinafsanz/github-pages)
->
-> Archivo Profile_Page
->📁 [Enlace repositorio]()
-> 
-> Referentes 👨‍💻
-> - [carol-solivos](https://github.com/carol-solivos/carol-solivos.github.io?tab=readme-ov-file)
-> - [jfbaquerocelis](https://github.com/jfbaquerocelis/jfbaquerocelis.github.io?tab=readme-ov-file)
-
 ---
 ## ¡Gracias por Participar! 
 Fue una emocionante jornada de aprendizaje y colaboración! 🎉
