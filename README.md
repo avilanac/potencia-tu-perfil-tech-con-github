@@ -24,7 +24,9 @@
 > - [Git flow en 13 pasos](https://www.pragma.com.co/academia/lecciones/aprende-gif-flow-en-13-pasos)
 >
 > - [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
+>   
 > - [Instalar Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
+> - [Como subir un proyecto local a github](https://gist.github.com/cgonzalezdai/cc33db72a6fe5178637aabb562eae35c?permalink_comment_id=4395213)
 
 ## 🛠 Potenciadores
 
@@ -44,7 +46,6 @@
 > - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 >
 > - [Escribir en GitHub](https://docs.github.com/es/get-started/writing-on-github)
-> - [Como subir un proyecto local a github](https://gist.github.com/cgonzalezdai/cc33db72a6fe5178637aabb562eae35c?permalink_comment_id=4395213)
 >
 > Recursos
 > - [Cómo escribir un README increíble en tu Github](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github) 🌟
