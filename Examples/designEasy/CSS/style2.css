@@ -1,0 +1,633 @@
+@import url('fonts.css');
+@import url('reset.css');
+
+body{
+    width: 1280px;
+    height: 1954;
+    margin:auto;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+#wrap{
+    width: 1280px;
+    margin: auto;
+    clear: both;
+}
+
+/*style Header*/
+
+header{
+    width: 100%;
+    float: left;
+    margin:auto;
+    background: #CBCBCB; 
+    
+}
+#subheader{
+    width: 1280px; 
+    margin:auto;
+            
+}
+
+
+#logotipo{
+    float: left;
+    width: 236px;    
+    padding: 10px 0px;
+}
+
+#logotipo a{
+    font-family: rockwell-extra-bold;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+    color: #007E84;    
+}
+
+#logotipo a:hover{
+    text-decoration: none;
+
+}
+/*Menú*/
+
+header #part1 nav{
+    float: left;
+    width: 215px;
+    padding: 20px 0px 0px;
+    text-align: left;
+}
+
+header #part1 nav ul li{
+    display: inline;
+    font-family: myanmar-text-2;
+}
+
+header #part1 nav ul li a{
+    color: #000000;
+    font-size:15px;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 2px;
+        -moz-border-radius: 2px;
+        -webkit-border-radius: 2px;
+        -ms-border-radius: 2px;
+        -o-border-radius: 2px;
+}
+
+header #part1 nav ul li a:hover{
+    color: #007E84;    
+    text-decoration: none;
+}
+
+
+header #part2 nav{
+    float: left;
+    width: 472px;
+    padding: 20px 0px 0px;
+    text-align: left;
+}
+
+header #part2 nav ul li{
+    display: inline;
+    font-family: myanmar-text-2;
+}
+
+header #part2 nav ul li a{
+    color: #000000;
+    font-size:15px;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 2px;
+        -moz-border-radius: 2px;
+        -webkit-border-radius: 2px;
+        -ms-border-radius: 2px;
+        -o-border-radius: 2px;
+}
+
+header #part2 nav ul li a:hover{
+    color: #007E84;
+    text-decoration: none;
+}
+
+header #part3 #prueb{
+    width: 135px;    
+    float: left;
+}
+
+header #part3 #prueb nav{
+    width: 135px;
+    padding: 20px 0px 0px;
+    text-align: right;
+}
+
+header #part3 #prueb nav ul li{
+    display: inline;
+    font-family: myanmar-text-2;
+}
+
+header #part3 #prueb nav ul li a{
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-weight: bold;
+    font-size:15px;
+    padding: 10px;    
+}
+
+header #part3 #prueb nav ul li a:hover{
+    color: #007E84; 
+    text-decoration: none;
+}
+
+header #part3 #login{
+    width: 222px;    
+    float: left;
+}
+
+header #part3 #login nav{
+    width: 222px;
+    padding: 10px;
+    text-align: left;
+}
+
+header #part3 #login nav ul li button{
+    width: 100px;    
+    color: white;
+    font-family: myanmar-text-2;
+    font-weight: bold;
+    background:#007E84;
+    padding: 5px;
+    border-radius: 3px;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -ms-border-radius: 3px;
+        -o-border-radius: 3px;
+}
+
+header #part3 #login nav ul li a{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+header #part3 #login nav ul li a:hover{
+    color: #000000; 
+    text-decoration: none;
+}
+
+
+/*Main*/
+
+#main{
+    width: 100%;
+    margin: auto;
+    float: left;
+}
+
+#banner3{
+    width: 1280px;
+    height: 319px;
+    background-image: url(../img/browserMod.png);
+    background-size: cover;
+    background-repeat:no-repeat;    
+}
+
+#banner3 #vacio4{
+    float: left;
+    width: 72px;
+    height: 319px;
+    text-align: end;
+}
+
+#banner3 #title1{
+    float: left;
+    width: 1208px;
+    height: 160px;
+}
+
+.text1{
+    float: left;
+    width: 267px;
+    height: 160px;
+    
+}
+
+.text1 h3{
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-size:60px;
+    text-align: left;    
+    padding: 90px 0px;
+    display: table-cell;
+    vertical-align:middle;   
+       
+}
+
+.logotitle {
+    float: left;
+    width: 310px; /* Ancho ajustado a vista final por diferencias con maquetado */
+    height: 160px;
+    
+}
+
+.logotitle a{
+    color: #007E84;
+    font-family: rockwell-extra-bold;
+    font-size:60px;
+    font-weight: bold;
+    text-align: left;
+    padding: 90px 0px;
+    display: table-cell;
+    vertical-align:middle;           
+}
+
+.text2 {
+    float: left;
+    width: 591px;
+    height: 160px;
+    
+}
+
+.text2 h3{
+    font-size:60px;
+    text-align: left;
+    font-weight: bold;
+    padding: 90px 0px;
+    display: table-cell;
+    vertical-align:middle;
+}
+
+
+#banner3 #title1 a:hover{
+    color: gray; 
+    text-decoration: none;
+}
+
+
+#banner3 #opctionnave{
+    float: left;
+    width: 1208px;
+    height: 160px;
+    
+}
+
+#banner3 #opctionnave ul li{
+    display: inline;
+}
+
+#banner3 #opctionnave ul li a{
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-size:31px;
+    text-align: center;
+           
+}
+
+#banner3 #opctionnave ul li i{
+    
+    margin-left: 9px;
+}
+
+#banner3 #opctionnave ul li a:hover{
+    color: #007E84;
+    text-decoration: none;
+}
+
+#examples {
+    float: left;
+    width: 1280px;
+    height: 773px;
+    background: #E1E4E7;    
+}
+
+#opctionnave2{
+    float: left;
+    width: 1280px;
+    height: 149px;
+}
+
+#opctionnave2 #Spotlighted{
+    float: left;
+    width: 322px;
+    height: 149px;
+}
+
+#opctionnave2 #Spotlighted button{
+    width: 163px;
+    height: 51px;
+    background-color: #6D0F2F;
+    color: white;
+    font-family: myanmar-text-2;
+    font-weight: bold;
+    margin-right: 25px;
+    margin-left: 134px;
+    margin-top: 49px;    
+}
+
+
+#opctionnave2 #menuopction{
+    float: left;
+    width: 958px;
+    height: 149px;
+    text-align: left;
+    
+}
+
+#opctionnave2 #menuopctions ul li{
+    display: inline;
+}
+
+#opctionnave2 #menuopctions ul li a{
+    color: #007E84;
+    font-family: myanmar-text-2;
+    font-size:18px;
+    font-weight: bold;
+    padding: 59px 10px;
+    display: table-cell;
+    vertical-align:middle;                  
+}
+
+#opctionnave2 #menuopctions ul li a:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+#imgexamples{
+    float: left;
+    width: 1280px;
+    height: 624px;
+    text-align: left;
+}
+
+.imgbutton{
+    float: left;
+    width: 426.66px;
+    height: 312px;
+}
+
+.imgbutton img{
+    float: left;
+    width: 331px;
+    height: 188px;
+    padding-left: 48px;
+    
+}
+
+.imgbutton button{
+    float: left;
+    width: 331px;
+    height: 75px;
+    background-color: #FFFFFF;
+    margin-left: 48px;
+    border: #FFFFFF;
+    
+}
+
+.imgbutton button a{
+    color: #007E84;
+    font-family: myanmar-text-2;
+    font-size:18px;
+    font-weight: bold;      
+}
+
+.imgbutton button a:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+footer{
+    width: 1280;
+    height: 500;
+    float: left;
+    clear: both;       
+    background: #0A0A0A   
+   }
+
+footer #parte6{
+    float: left;
+    width: 1280px;
+    height: 96px;
+}
+
+footer .logofinale{
+    color: #FFFFFF;
+    font-family: rockwell-extra-bold;
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;    
+}
+
+footer #links3{ 
+    float: left;     
+    width: 728px;
+    height:404px;    
+}
+
+footer #links3 #vacio3{
+    float: left;
+    width: 98px;
+    height:404px;
+}
+
+footer #links3 #part6{
+    float: left;
+    width: 210px;
+    height:404px;
+}
+
+footer #links3 #part6 h4{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:20px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer #links3 #part6 a{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: left;
+    margin-bottom: 20px;
+    
+}
+
+footer #links3 #part7{
+    float: left;
+    width: 210px;
+    height:404px;
+}
+
+footer #links3 #part7 h4{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:20px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer #links3 #part7 a{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: left;
+    margin-bottom: 10px;    
+}
+
+footer #links3 #part8{
+    float: left;
+    width: 210px;
+    height:404px;
+}
+
+footer #links3 #part8 h4{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:20px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer #links3 #part8 a{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: left;
+    margin-bottom: 10px;    
+}
+
+footer #about{
+    float: left;     
+    width: 552px;
+    height:404px;
+}
+
+footer #about #part9{
+    float: left;     
+    width: 552px;
+    height:90px;
+}
+
+footer #about #part9 img{
+    float: left;     
+    width: 20px;
+    height:20px;
+    padding: 20px 10px 20px;
+}
+
+footer #about #part9 a{   
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:16px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 50px;    
+}
+
+footer #about #part9 a:hover{
+    color: #FFFFFF; 
+    text-decoration: none;
+}
+
+footer #about #part9 i{   
+    padding: 20px 10px 20px;
+}
+
+footer #about #part10{
+    float: left;     
+    width: 460px;
+    height:144px;
+}
+
+footer #about #part10 p{   
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: justify;
+    padding: 20px 0xp 0xp 0px;   
+}
+
+footer #about #redes_s{
+    float: left;     
+    width: 552px;
+    height:170px;
+}
+
+footer #about #redes_s > div{
+    width: 48px;
+    height: 170px;
+    float: left;
+}
+
+footer #about #redes_s i{
+    color: #FFFFFF;
+    width: 20px;
+    height: 20px;
+}
+#final{
+    width: 1280px;
+    height: 66;
+    float: left;        
+    background: #000000    
+}
+
+#final #developrights{
+    float: left;
+    width: 239;
+    height: 66;
+}
+
+#final #developrights p{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: right;
+    padding: 20px;
+}
+
+#final #logofinale2{
+    float: left;
+    width: 1041;
+    height: 66;
+    padding-top: 15px;
+    background: #000000;  
+     
+}
+
+#final #logofinale2 a{
+    color: #FFFFFF;
+    font-family: rockwell-extra-bold;
+    font-size:21px;
+    font-weight: bold;
+    text-align: left;    
+    padding: 0px;
+}    
+
+#final #logofinale2 a:hover{
+    color: #FFFFFF; 
+    text-decoration: none;
+}
+
+

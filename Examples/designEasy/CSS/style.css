@@ -1,0 +1,626 @@
+@import url('fonts.css');
+@import url('reset.css');
+
+body{
+    width: 1280px;
+    height: 1954;
+    margin:auto;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+#wrap{
+    width: 1280px;
+    margin: auto;
+    clear: both;
+}
+
+/*style Header*/
+
+header{
+    width: 100%;
+    float: left;
+    margin:auto;
+    background: #F9F6EF; 
+    
+}
+#subheader{
+    width: 1280px; 
+    margin:auto;
+            
+}
+
+
+#logotipo{
+    float: left;
+    width: 236px;    
+    padding: 10px 0px;
+}
+
+#logotipo a{
+    font-family: rockwell-extra-bold;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+    color: #007E84;    
+}
+
+#logotipo a:hover{
+    text-decoration: none;
+
+}
+/*Menú*/
+
+header #part1 nav{
+    float: left;
+    width: 215px;
+    padding: 20px 0px 0px;
+    text-align: left;
+}
+
+header #part1 nav ul li{
+    display: inline;
+    font-family: myanmar-text-2;
+}
+
+header #part1 nav ul li a{
+    color: #000000;
+    font-size:15px;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 2px;
+        -moz-border-radius: 2px;
+        -webkit-border-radius: 2px;
+        -ms-border-radius: 2px;
+        -o-border-radius: 2px;
+}
+
+header #part1 nav ul li a:hover{
+    color: #007E84;    
+    text-decoration: none;
+}
+
+
+header #part2 nav{
+    float: left;
+    width: 472px;
+    padding: 20px 0px 0px;
+    text-align: left;
+}
+
+header #part2 nav ul li{
+    display: inline;
+    font-family: myanmar-text-2;
+}
+
+header #part2 nav ul li a{
+    color: #000000;
+    font-size:15px;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 2px;
+        -moz-border-radius: 2px;
+        -webkit-border-radius: 2px;
+        -ms-border-radius: 2px;
+        -o-border-radius: 2px;
+}
+
+header #part2 nav ul li a:hover{
+    color: #007E84;
+    text-decoration: none;
+}
+
+header #part3 #prueb{
+    width: 135px;    
+    float: left;
+}
+
+header #part3 #prueb nav{
+    width: 135px;
+    padding: 20px 0px 0px;
+    text-align: right;
+}
+
+header #part3 #prueb nav ul li{
+    display: inline;
+    font-family: myanmar-text-2;
+}
+
+header #part3 #prueb nav ul li a{
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-weight: bold;
+    font-size:15px;
+    padding: 10px;    
+}
+
+header #part3 #prueb nav ul li a:hover{
+    color: #007E84; 
+    text-decoration: none;
+}
+
+header #part3 #login{
+    width: 222px;    
+    float: left;
+}
+
+header #part3 #login nav{
+    width: 222px;
+    padding: 10px;
+    text-align: left;
+}
+
+header #part3 #login nav ul li button{
+    width: 100px;    
+    color: white;
+    font-family: myanmar-text-2;
+    font-weight: bold;
+    background:#007E84;
+    padding: 5px;
+    border-radius: 3px;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -ms-border-radius: 3px;
+        -o-border-radius: 3px;
+}
+
+header #part3 #login nav ul li a{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+header #part3 #login nav ul li a:hover{
+    color: #000000; 
+    text-decoration: none;
+}
+
+
+/*Main*/
+
+#main{
+    width: 100%;
+    margin: auto;
+    float: left;
+}
+
+#banner1{
+    width: 1280px;
+    height: 660px;
+    background-image: url(../img/fondoPageHome.png);
+    background-size: cover;
+    background-repeat:no-repeat;    
+}
+
+#presentation{    
+    width: 1280px;
+    height: 660px;      
+}
+
+#presentation #vacio1{
+    float: left;
+    width: 117px;
+    height: 660px;
+}
+
+#presentation #info{
+    float: left;
+    width: 1163px;
+    height: 425px;    
+}
+
+#presentation #info h5 {
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-size:30px;
+    text-align: left;
+    margin-top: 128px;             
+}
+
+#presentation #info .titulo{
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-size:65px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 10px;      
+}
+
+#presentation #info h6 {
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-size:25px;
+    text-align: left; 
+}
+
+#presentation #part4{
+    float: left;
+    width: 497px;
+    height: 235px;    
+}
+
+#presentation #part4 .btn{
+    float: left;
+    width: 215px;
+    height: 235px;
+}
+
+#presentation #part4 .link{
+    float: left;
+    width: 282px;
+    height: 235px;
+}
+
+#presentation #part4 .link i{
+    padding: 5px;
+}
+
+#presentation #part4 .btn a{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#presentation #part4 .btn a:hover{
+    color: #000000; 
+    text-decoration: none;
+}
+
+#presentation #part4 .btn button{
+    width: 200px;    
+    color: white;    
+    background:#007E84;
+    padding: 10px;
+    border-radius: 3px;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -ms-border-radius: 3px;
+        -o-border-radius: 3px;
+}
+
+#presentation #part4 .link a{
+    color: #007E84;
+    font-weight: bold;
+    font-size:18px;
+    padding: 1px;    
+}
+
+#presentation #part4 .link a:hover{
+    color: #000000; 
+    text-decoration: none;
+}
+
+#banner2{
+    width: 1280px;
+    height: 648px;
+    background-image: url(../img/fondoservices1.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+      
+}
+
+#services{
+    float: left;
+    width: 1280px;
+    height: 648px;  
+}
+
+#services .titulo{
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-size:65px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 40px;
+}
+
+#services #preview{
+    float: left;
+    width: 640px;
+    height: 532px;    
+}
+
+#services #preview img{
+    width: 356px;
+    height: 454px;
+    display: block; 
+    margin: auto;
+    padding: 15px;
+}
+
+#services #options{
+    float: left;
+    width: 640px;
+    height: 460px;    
+}
+
+#services #options h4{
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-size:26px;
+    text-align: left;
+    padding: 9px;
+    margin-top: 15px;   
+}
+
+#services #options p{
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-size:18px;
+    text-align: left;
+    padding: 2px 9px;
+}
+
+#services #part5{
+    float: left;
+    width: 640px;
+    height: 72px;    
+}
+
+#services .more{
+    float: left;
+    width: 170px;
+    height: 72px;    
+}
+
+#services .link2{
+    float: left;
+    width: 470px;
+    height: 72px;    
+}
+
+#services .more p{
+    color: #000000;
+    font-family: myanmar-text-2;
+    font-size:18px;
+    text-align: left;
+    padding: 2px 9px;
+}
+
+#services .link2 i{
+    padding: 2px;
+}
+
+#services .link2 a{
+    color: #007E84;
+    font-weight: bold;
+    font-size:18px;
+    text-align: left;    
+    margin-bottom: 20;    
+}
+
+#services .link2 a:hover{
+    color: #000000; 
+    text-decoration: none;
+}
+
+footer{
+    width: 1280;
+    height: 500;
+    float: left;
+    clear: both;       
+    background: #0A0A0A   
+   }
+
+footer #parte6{
+    float: left;
+    width: 1280px;
+    height: 96px;
+}
+
+footer .logofinale{
+    color: #FFFFFF;
+    font-family: rockwell-extra-bold;
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;    
+}
+
+footer #links3{ 
+    float: left;     
+    width: 728px;
+    height:404px;    
+}
+
+footer #links3 #vacio3{
+    float: left;
+    width: 98px;
+    height:404px;
+}
+
+footer #links3 #part6{
+    float: left;
+    width: 210px;
+    height:404px;
+}
+
+footer #links3 #part6 h4{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:20px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer #links3 #part6 a{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: left;
+    margin-bottom: 20px;
+    
+}
+
+footer #links3 #part7{
+    float: left;
+    width: 210px;
+    height:404px;
+}
+
+footer #links3 #part7 h4{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:20px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer #links3 #part7 a{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: left;
+    margin-bottom: 10px;    
+}
+
+footer #links3 #part8{
+    float: left;
+    width: 210px;
+    height:404px;
+}
+
+footer #links3 #part8 h4{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:20px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer #links3 #part8 a{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: left;
+    margin-bottom: 10px;    
+}
+
+footer #about{
+    float: left;     
+    width: 552px;
+    height:404px;
+}
+
+footer #about #part9{
+    float: left;     
+    width: 552px;
+    height:90px;
+}
+
+footer #about #part9 img{
+    float: left;     
+    width: 20px;
+    height:20px;
+    padding: 20px 10px 20px;
+}
+
+footer #about #part9 a{   
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:16px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 50px;    
+}
+
+footer #about #part9 a:hover{
+    color: #FFFFFF; 
+    text-decoration: none;
+}
+
+footer #about #part9 i{   
+    padding: 20px 10px 20px;
+}
+
+footer #about #part10{
+    float: left;     
+    width: 460px;
+    height:144px;
+}
+
+footer #about #part10 p{   
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: justify;
+    padding: 20px 0xp 0xp 0px;   
+}
+
+footer #about #redes_s{
+    float: left;     
+    width: 552px;
+    height:170px;
+}
+
+footer #about #redes_s > div{
+    width: 48px;
+    height: 170px;
+    float: left;
+}
+
+footer #about #redes_s i{
+    color: #FFFFFF;
+    width: 20px;
+    height: 20px;
+}
+#final{
+    width: 1280px;
+    height: 66;
+    float: left;        
+    background: #000000    
+}
+
+#final #developrights{
+    float: left;
+    width: 239;
+    height: 66;
+}
+
+#final #developrights p{
+    color: #FFFFFF;
+    font-family: myanmar-text-2;
+    font-size:15px;
+    text-align: right;
+    padding: 20px;
+}
+
+#final #logofinale2{
+    float: left;
+    width: 1041;
+    height: 66;
+    padding-top: 15px;
+    background: #000000;  
+     
+}
+
+#final #logofinale2 a{
+    color: #FFFFFF;
+    font-family: rockwell-extra-bold;
+    font-size:21px;
+    font-weight: bold;
+    text-align: left;    
+    padding: 0px;
+}    
+
+#final #logofinale2 a:hover{
+    color: #FFFFFF; 
+    text-decoration: none;
+}

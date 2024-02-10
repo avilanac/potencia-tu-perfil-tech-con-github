@@ -1,0 +1,53 @@
+# Perfil de Python Developer 🐍
+
+¡Hola! Soy [Tu Nombre], un apasionado desarrollador de Python con experiencia en el desarrollo de software y soluciones basadas en datos. Aquí hay un vistazo a lo que hago:
+
+## Lenguajes y Tecnologías que Manejo 🚀
+- **Python**: Desarrollo de backend, scripts, análisis de datos.
+- **SQL**: Manejo de bases de datos relacionales.
+- **Django y Flask**: Desarrollo de aplicaciones web.
+- **Git**: Control de versiones y colaboración.
+
+## Proyectos Actuales 🌐
+1. **Sistema de Gestión de Tareas**: Desarrollando una aplicación para gestionar tareas utilizando Django.
+2. **Análisis de Datos en Tiempo Real**: Implementando un sistema para analizar datos en tiempo real con Python y herramientas de Big Data.
+
+## Habilidades Adicionales 🛠️
+- Desarrollo Ágil y Scrum.
+- Integración de APIs y servicios web.
+- Despliegue en la nube (AWS, Heroku).
+- Colaboración efectiva en equipos multidisciplinarios.
+
+## Contacto 📫
+¡Me encantaría conectar contigo y hablar sobre Python, desarrollo web o cualquier cosa relacionada! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-usuario) o [Twitter](https://twitter.com/tu-usuario).
+
+¡Gracias por visitar mi perfil! 👋
+
+-----
+
+# Perfil de Data Engineer 🛠️
+
+¡Hola! Soy [Tu Nombre], un apasionado Data Engineer con experiencia en el diseño y desarrollo de arquitecturas de datos y pipelines. Aquí te presento un vistazo a mi experiencia y habilidades:
+
+## Experiencia y Habilidades 🚀
+- **Ingeniería de Datos**: Diseño y construcción de pipelines para procesamiento y transformación de datos.
+- **SQL y NoSQL**: Experiencia en bases de datos relacionales y no relacionales.
+- **Big Data Technologies**: Trabajo con tecnologías como Apache Spark y Hadoop.
+- **Cloud Platforms**: Desarrollo y despliegue en plataformas como AWS o Google Cloud.
+- **Modelado de Datos**: Diseño eficiente de esquemas de bases de datos.
+
+## Proyectos Destacados 🌐
+1. **Pipeline de Datos en Tiempo Real**: Desarrollé un sistema para procesar datos en tiempo real utilizando Apache Kafka y Spark.
+2. **Migración a la Nube**: Lideré la migración de datos a una plataforma en la nube, mejorando la escalabilidad y la eficiencia.
+
+## Habilidades Adicionales 🛠️
+- Automatización de procesos ETL.
+- Implementación y gestión de Data Warehouses.
+- Integración de datos desde diversas fuentes.
+- Colaboración en equipos multidisciplinarios.
+
+## Contacto 📫
+¡Me encantaría conectar contigo y discutir sobre proyectos de ingeniería de datos o cualquier tema relacionado! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-usuario) o [Twitter](https://twitter.com/tu-usuario).
+
+¡Gracias por visitar mi perfil! 👋
+
